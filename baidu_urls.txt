@@ -1,0 +1,5 @@
+https://note.sdking.fun/blog/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB-%E7%BC%96%E8%AF%91%E9%93%BE%E6%8E%A5/
+https://note.sdking.fun/blog/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-FactoryMethod/
+https://note.sdking.fun/blog/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-Bridge/
+https://note.sdking.fun/blog/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-Decorator/
+https://note.sdking.fun/blog/manim-%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%A8%8B%E5%BA%8F/
